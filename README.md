@@ -1,4 +1,4 @@
-# PHP Login & Registration System 🔐
+# PHP Login & Registration System 
 
 ![PHP](https://img.shields.io/badge/PHP-8.0%2B-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-orange)
@@ -16,14 +16,14 @@ A complete and secure authentication system built with PHP and MySQL, featuring 
 - 🛡️ SQL injection prevention (PDO prepared statements)
 - ✉️ Basic email uniqueness validation
 
-## 📦 Requirements
+## Requirements
 
 - XAMPP (or similar local server stack)
 - PHP 8.0+
 - MySQL 5.7+
 - Web browser
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Setup Database**:
    - Import `database.sql` into phpMyAdmin
@@ -47,9 +47,9 @@ A complete and secure authentication system built with PHP and MySQL, featuring 
    - Place files in `htdocs/login_system/`
    - Access via `http://localhost/login_system`
 
-## 🛠️ File Structure
+## 🛠 File Structure
 
-## 🔒 Security Features
+##  Security Features
 
 - All passwords stored using `password_hash()`
 - Prepared statements for all SQL queries
@@ -57,7 +57,7 @@ A complete and secure authentication system built with PHP and MySQL, featuring 
 - Input sanitization
 - Protected routes
 
-## 📚 Learning Resources
+##  Learning Resources
 
 - [PHP Manual - Password Hashing](https://www.php.net/manual/en/book.password.php)
 - [PDO Tutorial](https://phpdelusions.net/pdo)
@@ -69,4 +69,4 @@ Pull requests welcome! For major changes, please open an issue first.
 
 ## 📄 License
 
-MIT © [Your Name]
+NISHIMWE THIERRY
